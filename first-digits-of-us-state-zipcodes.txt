@@ -1,4 +1,4 @@
-The first digit of the ZIP Code is allocated as follows:
+The first digit of the ZIP Code is allocated as follows :
 
 0 = Connecticut (CT), Massachusetts (MA), Maine (ME), New Hampshire (NH), New Jersey (NJ), New York (NY, Fishers Island only), Puerto Rico (PR), Rhode Island (RI), Vermont (VT), Virgin Islands (VI), Army Post Office Europe (AE), Fleet Post Office Europe (AE)
 1 = Delaware (DE), New York (NY), Pennsylvania (PA)
