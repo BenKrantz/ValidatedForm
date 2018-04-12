@@ -2,10 +2,17 @@
   "valid": [
     "Sameer Pradhan",
     "Mr. Sameer Pradhan",
-    "Sameer Pradhan Jr."
+    "Sameer Pradhan Jr.",
+    "Ben Krantz",
+    "Mr. Ben Krantz",
+    "Ben Krantz Ph.D"
+    "Ben Krantz-Krantz"
   ],
   "invalid": [
     "Sameer",
-    "Mr. Sameer"
+    "Mr. Sameer",
+    "ben krantz",
+    "Ben Krantz Jr",
+    "Ben Krantz fr."
   ]
 }
