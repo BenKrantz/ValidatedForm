@@ -1,0 +1,14 @@
+{
+  "valid": [
+    "benkrantz@hotmail.com",
+    "bekrantz@vassar.edu",
+    "ben.krantz@vassar.edu",
+    "ben-krantz@gmail.net"
+  ],
+  "invalid": [
+    "benlranttz",
+    "benkrantz@gmail.asdfghj",
+    "benkrantzgmail.com",
+    "benkrantz@gmailcom"
+  ]
+}
