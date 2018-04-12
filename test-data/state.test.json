@@ -2,10 +2,17 @@
   "valid": [
     "New York",
     "ny",
-    "NY"
+    "NY",
+    "WA",
+    "Washington",
+    "wa",
+    "California"
   ],
   "invalid": [
     "NEW YORK",
-    "nyc"
+    "nyc",
+    "washington",
+    "DC",
+    "Wash"
   ]
 }
